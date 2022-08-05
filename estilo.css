@@ -7,15 +7,34 @@
     background-color: #718387;
     padding: 10px;
 }
-.link {color: white;
+.link {
+    color: white;
     text-decoration: none;
+
 }
 .link:hover{
     background-color: blueviolet;
+
 }
 .cabecalho{
     background-color: #98336c;
-    background: linear-gradient(90deg,#486288 0%, #98336c 100%
+    background: linear-gradient(90deg,#486288c4) 0%, #98336cdc 100%), url();
+    text-align: center;
 
-    );
 }
+    .titulo{
+        color: #FFFF;
+        padding-bottom: 30px;
+    }
+    .foto{
+        margin: 20px;
+        margin-top: 100px;
+        border: 2px solid #486288;
+        border-radius: 50%;
+
+    }
+        .redes > a> img{
+            padding: 20px;
+        }
+        
+        }
