@@ -12,7 +12,7 @@
     padding: 10px;
 }
 .link {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
 
 }
@@ -21,8 +21,8 @@
 
 }
 .cabecalho{
-    background-color: #98336cc7;
-    background: linear-gradient(90deg,rgba(72, 98, 136, 0.541)) 0%, #98336c81 50%, url("../images/fundo.jpg");
+    background-color: #98336c;
+    background: linear-gradient(90deg,#486288c8) 0%, #98336ce9 100%, url("../images/fundo.jpg");
     text-align: center;
     
 
